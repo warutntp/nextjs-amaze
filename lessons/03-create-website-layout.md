@@ -308,4 +308,4 @@
 
 14. copy .env.local content and paste in Vercel Environment
 15. commit changes and push to GitHub
-16. go to https://your-repo-name.vercel.app
+16. go to https://nextjs-amazona.vercel.app

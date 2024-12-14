@@ -81,4 +81,4 @@
 
 12. publish code to github
 13. deploy github repo to vercel
-14. go to https://your-repo-name.vercel.app
+14. go to https://nextjs-amazona.vercel.app
