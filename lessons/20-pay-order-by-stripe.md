@@ -8,9 +8,9 @@ npm i stripe @stripe/stripe-js @stripe/react-stripe-js --legacy-peer-deps
 
 ### Stripe. get it from https://dashboard.stripe.com/test/apikeys
 
-NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=pk_test_51G17dsCp2PrSf8TmMRXPAY3Csdma5BeZn3QgxjMcGS4pUodpALPvo8pTXm8n4OrW7uXAHKzJzU4x5rOJU0tWgylr00S2TKFEMv
-STRIPE_SECRET_KEY=sk_test_51G17dsCp2PrSf8Tm6IJlxewdNZUWITNFMIwwWstK982ecWSrHUKrGu5imSnom5BI0RAiHcqiNjPH4HlG8UiLc8ot0080BZnDhk
-STRIPE_WEBHOOK_SECRET=whsec_a149d25e47d40c8e0f7b337ed98ca4248596b338a895801780a386bbdbac7ef8
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=xx
+STRIPE_SECRET_KEY=xx
+STRIPE_WEBHOOK_SECRET=xx
 
 ## create app/api/webhooks/stripe/route.tsx
 
